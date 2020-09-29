@@ -8,12 +8,15 @@ tap rcmdnk/file
 brew brew-file
 
 brew ack
+brew cmake
 brew direnv
 brew ffmpeg
 brew ghq
-brew graphviz
+brew git-lfs
 brew go
+brew graphviz
 brew hub
+brew icu4c
 brew imagemagick
 brew jq
 brew kube-ps1
@@ -34,18 +37,23 @@ brew nmap
 brew openssh
 brew openssl
 brew p7zip
+brew pandoc
 brew peco
+brew pstree
 brew pwgen
 brew rbenv
 brew readline
 brew redis
 brew ruby-build
 brew rtmpdump
+brew selenium-server-standalone
 brew shellcheck
 brew skaffold
 brew stern
+brew subversion
 brew terraform
 brew terraformer
+brew tree
 brew w3m
 brew wget
 brew x265
@@ -59,9 +67,12 @@ brew screenutf8
 
 cask adobe-acrobat-reader
 cask android-file-transfer
+cask android-platform-tools
+cask android-sdk
 cask appcleaner
 cask arduino
 cask caffeine
+cask chromedriver
 cask controlplane
 cask discord
 cask docker
@@ -83,6 +94,7 @@ cask quicklook-csv
 cask simplefloatingclock
 cask skitch
 cask unity-hub
+cask vagrant
 cask visual-studio-code
 cask virtualbox
 cask vlc
